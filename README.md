@@ -6,7 +6,7 @@
 
 ## About
 
-My first autotest Java for Yandex.Samokat. I used PageObject and Parametrized.Class in this tests. 
+My first autotest Java for Yandex.Samokat. I used PageObject and Parametrized.Class in these tests. 
 ## Documentation
 -
 ## Autotest
